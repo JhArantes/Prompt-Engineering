@@ -1,3 +1,5 @@
+# Codigos para integrar OpenAI com Python
+#=====================================================
 
 from openai import OpenAI
 client = OpenAI()
